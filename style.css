@@ -1,26 +1,24 @@
-
-#h1{
-font-family:bellota;
+.h1{
+font-family: bellota;
 font-size: 36px;
 text-align: center;
 }
-#h2{
-font-family:babelstone-modern;
+.h2{
+font-family: babelstone-modern;
 font-size : 20px;
 text-align: center;
 }
 .p.citation{
 font-family:uglytypist;
 font-size: 14px;
-text-align:center;
+text-align: center;
 }
 .container{
 display: flex;
-flex-wrap:wrap;
-justify-content:center;
-gap:10px;
+flex-wrap: wrap;
+justify-content: center;
+gap: 10px;
 }
 .card{
 max-width: 200px;
-
 }
