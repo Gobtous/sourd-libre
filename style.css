@@ -1,17 +1,17 @@
 h1{
-font-family: bellota;
+font-family: BellotaRegular';
 font-size: 36px;
 text-align: center;
 }
 
 h2{
-font-family: babelstone-modern;
+font-family: 'BabelStoneModernRegular';
 font-size : 20px;
 text-align: center;
 }
 
 p.citation{
-font-family: uglytypist;
+font-family: 'UglyTypistRegular';
 font-size: 14px;
 text-align: center;
 }
