@@ -6,6 +6,8 @@ text-align: center;
 
 h2{
 font-family: 'BabelStoneModernRegular';
+font-weight: normal;
+font-style: normal; 
 font-size : 20px;
 text-align: center;
 }
