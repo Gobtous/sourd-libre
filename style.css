@@ -18,7 +18,7 @@ text-align: center;
 
 p.citation{
 font-family: 'UglyTypistRegular';
-font-size: 14px;
+font-size: 20px;
 text-align: center;
 }
 
@@ -26,7 +26,7 @@ text-align: center;
 display: flex;
 flex-wrap: wrap;
 justify-content: center;
-gap: 10px;
+gap: 30px;
 }
 
 .card{
